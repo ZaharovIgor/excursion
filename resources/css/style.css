@@ -1,5 +1,26 @@
 body {
 	background-color: #000;
 	font-family: verdana;
+	
 	text-align: center;
+}
+h1 {
+	font-size: 50px;
+	font-weight: 300;
+	color: #FFFFFF;
+
+}
+a {
+	color: aquamarine;
+	font-size: 16px;
+}
+h2 {
+	font-size: 42px;
+	color: #FFFFFF;
+	font-weight: 300;
+}
+h4 {
+	font-size: 21px;
+	color: gray;
+	font-weight: 300;
 }
